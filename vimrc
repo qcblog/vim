@@ -19,3 +19,6 @@ language messages zh_CN.utf-8
 set nobackup
 "设置leader触发键
 let mapleader=','
+
+
+map <F4> :terminal<CR>
