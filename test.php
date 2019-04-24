@@ -1,6 +1,9 @@
 高亮测试
 <?php 
-echo '还是php文件高亮靠谱';
+function test(){
+    echo '还是php文件高亮靠谱';
+}
+test();
 ?>
 <script>
     alert('dd');
